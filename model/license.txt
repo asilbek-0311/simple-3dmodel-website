@@ -1,0 +1,8 @@
+Model Information:
+* title:	BMW 635CSi
+* source:	https://sketchfab.com/3d-models/bmw-635csi-98d637dd807c478ead62581915722590
+* author:	Wekfest '23™ (https://sketchfab.com/Wekfest23)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
